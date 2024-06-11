@@ -14,7 +14,7 @@ _Tìm kiếm (search),filter ( lọc theo phòng ban), đăng ảnh (upload imag
 
 _Notification Popup ,Cascading Dropdowns.
 
-_Xuất dữu liệu ra file Excel, xuất dữu liệu ra file PDF, in ( print ) .
+_Xuất dữ liệu ra file Excel, xuất dữ liệu ra file PDF, in ( print ) .
 
 _Biểu đồ ( Chart ).
 
