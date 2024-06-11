@@ -42,9 +42,9 @@ _Login,register, admin,authorization .
 
 _Search by name or Id,filter by department,upload image, calculate the salary…
 
-_ Notification Popup ,Cascading Dropdowns.
+_Notification Popup ,Cascading Dropdowns.
 
-_ Export data to Excel files, export data to PDF files,  print  .
+_Export data to Excel files, export data to PDF files,  print  .
 
 _Chart .
 
